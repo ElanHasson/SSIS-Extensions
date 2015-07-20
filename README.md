@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/appveyor/ci/ElanHasson/SSIS-Extensions/master.svg"/>
+
 # SSIS-Extensions
 A clone of https://ssisextensions.codeplex.com/ 
 
