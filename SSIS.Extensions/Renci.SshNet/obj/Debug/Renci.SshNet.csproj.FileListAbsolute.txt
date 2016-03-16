@@ -1,0 +1,6 @@
+C:\Users\ehasson\Documents\GitHub\SSIS-Extensions\SSIS.Extensions\SSIS.Extensions\Renci.SshNet\bin\Debug\Renci.SshNet.Net4.xml
+C:\Users\ehasson\Documents\GitHub\SSIS-Extensions\SSIS.Extensions\SSIS.Extensions\Renci.SshNet\bin\Debug\Renci.SshNet.Net4.dll
+C:\Users\ehasson\Documents\GitHub\SSIS-Extensions\SSIS.Extensions\SSIS.Extensions\Renci.SshNet\bin\Debug\Renci.SshNet.Net4.pdb
+C:\Users\ehasson\Documents\GitHub\SSIS-Extensions\SSIS.Extensions\SSIS.Extensions\Renci.SshNet\obj\Debug\Renci.SshNet.csprojResolveAssemblyReference.cache
+C:\Users\ehasson\Documents\GitHub\SSIS-Extensions\SSIS.Extensions\SSIS.Extensions\Renci.SshNet\obj\Debug\Renci.SshNet.Net4.dll
+C:\Users\ehasson\Documents\GitHub\SSIS-Extensions\SSIS.Extensions\SSIS.Extensions\Renci.SshNet\obj\Debug\Renci.SshNet.Net4.pdb

@@ -1,5 +1,0 @@
-C:\Users\gsingh\Desktop\Projects\VS2010\PGPTask\Crypto\bin\Release\Crypto.dll
-C:\Users\gsingh\Desktop\Projects\VS2010\PGPTask\Crypto\bin\Release\Crypto.pdb
-C:\Users\gsingh\Desktop\Projects\VS2010\PGPTask\Crypto\obj\Release\ResolveAssemblyReference.cache
-C:\Users\gsingh\Desktop\Projects\VS2010\PGPTask\Crypto\obj\Release\Crypto.dll
-C:\Users\gsingh\Desktop\Projects\VS2010\PGPTask\Crypto\obj\Release\Crypto.pdb

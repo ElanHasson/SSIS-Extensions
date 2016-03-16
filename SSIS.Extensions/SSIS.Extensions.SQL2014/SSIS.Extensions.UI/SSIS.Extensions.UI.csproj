@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5A182F71-C793-4F39-9AB4-4BB09D4507D0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SSIS.Extensions.UI</RootNamespace>
+    <AssemblyName>SSIS.Extensions.UI.2014</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>SSIS.Extensions.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.SqlServer.Dts.Design, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.DTSPipelineWrap, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.SQLServer.ManagedDTS, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.PipelineHost, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Helpers\EnumConverter.cs" />
+    <Compile Include="Helpers\Extensions.cs" />
+    <Compile Include="Helpers\RuleConverter.cs" />
+    <Compile Include="Helpers\UserVariables.cs" />
+    <Compile Include="PGP\PGPUI.cs" />
+    <Compile Include="PGP\PGPUIForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PGP\PGPUIForm.Designer.cs">
+      <DependentUpon>PGPUIForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PGP\PropertiyBag.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SFTP\PropertyBag.cs" />
+    <Compile Include="SFTP\SFTPUI.cs" />
+    <Compile Include="SFTP\SFTPUIForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SFTP\SFTPUIForm.Designer.cs">
+      <DependentUpon>SFTPUIForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zip\PropertyBag.cs" />
+    <Compile Include="Zip\ZipUI.cs" />
+    <Compile Include="Zip\ZipUIForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zip\ZipUIForm.Designer.cs">
+      <DependentUpon>ZipUIForm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="SSIS.Extensions.snk" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="PGP\PGPUIForm.resx">
+      <DependentUpon>PGPUIForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SFTP\SFTPUIForm.resx">
+      <DependentUpon>SFTPUIForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zip\ZipUIForm.resx">
+      <DependentUpon>ZipUIForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SSIS.Extensions\SSIS.Extensions.csproj">
+      <Project>{57356243-82e8-4b7a-b6fc-c45e3bf11ec0}</Project>
+      <Name>SSIS.Extensions</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>Copy /Y $(TargetPath) "$(SolutionDir)..\SSIS.Extensions.Installer\Build\*.*"</PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

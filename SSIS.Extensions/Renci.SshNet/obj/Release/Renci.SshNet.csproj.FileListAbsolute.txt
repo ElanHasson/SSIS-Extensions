@@ -1,0 +1,11 @@
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\Renci.SshNet\bin\Release\Renci.SshNet.Net4.xml
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\Renci.SshNet\bin\Release\Renci.SshNet.Net4.dll
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\Renci.SshNet\bin\Release\Renci.SshNet.Net4.pdb
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\Renci.SshNet\obj\Release\Renci.SshNet.Net4.dll
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\Renci.SshNet\obj\Release\Renci.SshNet.Net4.pdb
+C:\Users\ehasson\Downloads\SSIS.Extensions\SSIS.Extensions.SQL2014\Renci.SshNet\bin\Release\Renci.SshNet.Net4.xml
+C:\Users\ehasson\Downloads\SSIS.Extensions\SSIS.Extensions.SQL2014\Renci.SshNet\bin\Release\Renci.SshNet.Net4.dll
+C:\Users\ehasson\Downloads\SSIS.Extensions\SSIS.Extensions.SQL2014\Renci.SshNet\bin\Release\Renci.SshNet.Net4.pdb
+C:\Users\ehasson\Downloads\SSIS.Extensions\SSIS.Extensions.SQL2014\Renci.SshNet\obj\Release\Renci.SshNet.csprojResolveAssemblyReference.cache
+C:\Users\ehasson\Downloads\SSIS.Extensions\SSIS.Extensions.SQL2014\Renci.SshNet\obj\Release\Renci.SshNet.Net4.dll
+C:\Users\ehasson\Downloads\SSIS.Extensions\SSIS.Extensions.SQL2014\Renci.SshNet\obj\Release\Renci.SshNet.Net4.pdb

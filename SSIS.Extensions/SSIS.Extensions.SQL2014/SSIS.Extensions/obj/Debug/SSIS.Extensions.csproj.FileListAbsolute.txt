@@ -1,0 +1,8 @@
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions\obj\Debug\SSIS.Extensions.csprojResolveAssemblyReference.cache
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions\bin\Debug\SSIS.Extensions.2012.dll
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions\bin\Debug\SSIS.Extensions.2012.pdb
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions\bin\Debug\Renci.SshNet.dll
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions\bin\Debug\Renci.SshNet.pdb
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions\bin\Debug\Renci.SshNet.xml
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions\obj\Debug\SSIS.Extensions.2012.dll
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions\obj\Debug\SSIS.Extensions.2012.pdb

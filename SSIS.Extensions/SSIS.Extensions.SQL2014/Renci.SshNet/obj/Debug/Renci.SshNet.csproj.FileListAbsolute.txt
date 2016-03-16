@@ -1,0 +1,6 @@
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\Renci.SshNet\bin\Debug\Renci.SshNet.xml
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\Renci.SshNet\bin\Debug\Renci.SshNet.dll
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\Renci.SshNet\bin\Debug\Renci.SshNet.pdb
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\Renci.SshNet\obj\Debug\Renci.SshNet.csprojResolveAssemblyReference.cache
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\Renci.SshNet\obj\Debug\Renci.SshNet.dll
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\Renci.SshNet\obj\Debug\Renci.SshNet.pdb
