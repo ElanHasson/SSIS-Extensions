@@ -1,28 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSIS.Extensions", "SSIS.Extensions\SSIS.Extensions.csproj", "{57356243-82E8-4B7A-B6FC-C45E3BF11EC0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSIS.Extensions.UI", "SSIS.Extensions.UI\SSIS.Extensions.UI.csproj", "{5A182F71-C793-4F39-9AB4-4BB09D4507D0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Renci.SshNet", "Renci.SshNet\Renci.SshNet.csproj", "{2F5F8C90-0BD1-424F-997C-7BC6280919D1}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SSIS.SFTP.Installer", "SSIS.SFTP.Installer\SSIS.SFTP.Installer.vdproj", "{FF68F11B-8057-414C-A000-3E9B4398570F}"
+EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 4
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://gscs.visualstudio.com/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = SSIS.Extensions.UI\\SSIS.Extensions.UI.csproj
-		SccProjectName1 = SSIS.Extensions.UI
-		SccLocalPath1 = SSIS.Extensions.UI
-		SccProjectUniqueName2 = SSIS.Extensions\\SSIS.Extensions.csproj
-		SccProjectName2 = SSIS.Extensions
-		SccLocalPath2 = SSIS.Extensions
-		SccProjectUniqueName3 = Renci.SshNet\\Renci.SshNet.csproj
-		SccProjectName3 = Renci.SshNet
-		SccLocalPath3 = Renci.SshNet
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		CD_ROM|Any CPU = CD_ROM|Any CPU
 		CD_ROM|Mixed Platforms = CD_ROM|Mixed Platforms
@@ -116,6 +105,22 @@ Global
 		{2F5F8C90-0BD1-424F-997C-7BC6280919D1}.SingleImage|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{2F5F8C90-0BD1-424F-997C-7BC6280919D1}.SingleImage|Mixed Platforms.Build.0 = Release|Any CPU
 		{2F5F8C90-0BD1-424F-997C-7BC6280919D1}.SingleImage|x86.ActiveCfg = Release|Any CPU
+		{FF68F11B-8057-414C-A000-3E9B4398570F}.CD_ROM|Any CPU.ActiveCfg = Release
+		{FF68F11B-8057-414C-A000-3E9B4398570F}.CD_ROM|Mixed Platforms.ActiveCfg = Release
+		{FF68F11B-8057-414C-A000-3E9B4398570F}.CD_ROM|x86.ActiveCfg = Release
+		{FF68F11B-8057-414C-A000-3E9B4398570F}.Debug|Any CPU.ActiveCfg = Debug
+		{FF68F11B-8057-414C-A000-3E9B4398570F}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{FF68F11B-8057-414C-A000-3E9B4398570F}.Debug|x86.ActiveCfg = Debug
+		{FF68F11B-8057-414C-A000-3E9B4398570F}.DVD-5|Any CPU.ActiveCfg = Debug
+		{FF68F11B-8057-414C-A000-3E9B4398570F}.DVD-5|Mixed Platforms.ActiveCfg = Debug
+		{FF68F11B-8057-414C-A000-3E9B4398570F}.DVD-5|x86.ActiveCfg = Debug
+		{FF68F11B-8057-414C-A000-3E9B4398570F}.Release|Any CPU.ActiveCfg = Release
+		{FF68F11B-8057-414C-A000-3E9B4398570F}.Release|Mixed Platforms.ActiveCfg = Release
+		{FF68F11B-8057-414C-A000-3E9B4398570F}.Release|Mixed Platforms.Build.0 = Release
+		{FF68F11B-8057-414C-A000-3E9B4398570F}.Release|x86.ActiveCfg = Release
+		{FF68F11B-8057-414C-A000-3E9B4398570F}.SingleImage|Any CPU.ActiveCfg = Release
+		{FF68F11B-8057-414C-A000-3E9B4398570F}.SingleImage|Mixed Platforms.ActiveCfg = Release
+		{FF68F11B-8057-414C-A000-3E9B4398570F}.SingleImage|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
