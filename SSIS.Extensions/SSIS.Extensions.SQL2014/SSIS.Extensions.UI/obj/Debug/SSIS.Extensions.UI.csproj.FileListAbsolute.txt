@@ -1,0 +1,15 @@
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions.UI\obj\Debug\SSIS.Extensions.UI.csprojResolveAssemblyReference.cache
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions.UI\obj\Debug\SSIS.Extensions.UI.PGPTask.PGPUIForm.resources
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions.UI\obj\Debug\SSIS.Extensions.UI.SFTPTask.SFTPUIForm.resources
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions.UI\obj\Debug\SSIS.Extensions.UI.ZipTask.ZipUIForm.resources
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions.UI\obj\Debug\SSIS.Extensions.UI.csproj.GenerateResource.Cache
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions.UI\bin\Debug\SSIS.Extensions.UI.2012.dll
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions.UI\bin\Debug\SSIS.Extensions.UI.2012.pdb
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions.UI\bin\Debug\SSIS.Extensions.2012.dll
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions.UI\bin\Debug\Renci.SshNet.dll
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions.UI\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions.UI\bin\Debug\SSIS.Extensions.2012.pdb
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions.UI\bin\Debug\Renci.SshNet.pdb
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions.UI\bin\Debug\Renci.SshNet.xml
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions.UI\obj\Debug\SSIS.Extensions.UI.2012.dll
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions.UI\obj\Debug\SSIS.Extensions.UI.2012.pdb

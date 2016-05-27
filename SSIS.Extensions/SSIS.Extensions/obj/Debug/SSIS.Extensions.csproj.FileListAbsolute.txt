@@ -1,0 +1,7 @@
+C:\Users\ehasson\Documents\GitHub\SSIS-Extensions\SSIS.Extensions\SSIS.Extensions\SSIS.Extensions\bin\Debug\SSIS.Extensions.2012.dll
+C:\Users\ehasson\Documents\GitHub\SSIS-Extensions\SSIS.Extensions\SSIS.Extensions\SSIS.Extensions\bin\Debug\SSIS.Extensions.2012.pdb
+C:\Users\ehasson\Documents\GitHub\SSIS-Extensions\SSIS.Extensions\SSIS.Extensions\SSIS.Extensions\bin\Debug\Renci.SshNet.Net4.dll
+C:\Users\ehasson\Documents\GitHub\SSIS-Extensions\SSIS.Extensions\SSIS.Extensions\SSIS.Extensions\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+C:\Users\ehasson\Documents\GitHub\SSIS-Extensions\SSIS.Extensions\SSIS.Extensions\SSIS.Extensions\obj\Debug\SSIS.Extensions.csprojResolveAssemblyReference.cache
+C:\Users\ehasson\Documents\GitHub\SSIS-Extensions\SSIS.Extensions\SSIS.Extensions\SSIS.Extensions\obj\Debug\SSIS.Extensions.2012.dll
+C:\Users\ehasson\Documents\GitHub\SSIS-Extensions\SSIS.Extensions\SSIS.Extensions\SSIS.Extensions\obj\Debug\SSIS.Extensions.2012.pdb

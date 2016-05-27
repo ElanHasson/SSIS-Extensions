@@ -1,0 +1,12 @@
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions\bin\Debug\SSIS.Extensions.2012.dll
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions\bin\Debug\SSIS.Extensions.2012.pdb
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions\obj\Release\SSIS.Extensions.csprojResolveAssemblyReference.cache
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions\obj\Release\SSIS.Extensions.2012.dll
+C:\Users\gsingh\Desktop\Projects\CG\SSIS.Extensions\SSIS.Extensions.SQL2012\SSIS.Extensions\obj\Release\SSIS.Extensions.2012.pdb
+C:\Users\ehasson\Downloads\SSIS.Extensions\SSIS.Extensions.SQL2014\SSIS.Extensions\bin\Debug\SSIS.Extensions.2014.dll
+C:\Users\ehasson\Downloads\SSIS.Extensions\SSIS.Extensions.SQL2014\SSIS.Extensions\bin\Debug\SSIS.Extensions.2014.pdb
+C:\Users\ehasson\Downloads\SSIS.Extensions\SSIS.Extensions.SQL2014\SSIS.Extensions\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+C:\Users\ehasson\Downloads\SSIS.Extensions\SSIS.Extensions.SQL2014\SSIS.Extensions\obj\Release\SSIS.Extensions.2014.dll
+C:\Users\ehasson\Downloads\SSIS.Extensions\SSIS.Extensions.SQL2014\SSIS.Extensions\obj\Release\SSIS.Extensions.2014.pdb
+C:\Users\ehasson\Downloads\SSIS.Extensions\SSIS.Extensions.SQL2014\SSIS.Extensions\obj\Release\SSIS.Extensions.csprojResolveAssemblyReference.cache
