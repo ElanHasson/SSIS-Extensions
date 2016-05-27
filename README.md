@@ -24,6 +24,9 @@ Note: I'd appreciate any feedback on the project, also let me know if you'd like
 
 **Change Log**
 
+*   May 27, 2016
+    *   Added SQL 2014 Support and new installer for 2014 only. 
+
 *   May 19, 2013
     *   Unified installer for SQL 2008R2 and 2012, both 32-bit and 64-bit
     *   Fixed issue with dll mismatch
