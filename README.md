@@ -3,6 +3,8 @@
 # SSIS-Extensions
 A clone of https://ssisextensions.codeplex.com/ 
 
+**Download Here: [Download Here for SQL Server 2014](https://github.com/ElanHasson/SSIS-Extensions/raw/master/SSIS.Extensions/SSIS.Extensions.SQL2014/SSIS.SFTP.Installer/Release/SSIS.SFTP.Installer.msi)**
+
 
 **SFTP, PGP and Zip Control Flow custom components**  
  A set of custom tasks to extend SSIS. Includes a SFTP task, PGP encryption task and zip/unzip task.  
@@ -10,9 +12,11 @@ A clone of https://ssisextensions.codeplex.com/
 Includes custom components to SFTP, Encrypt/Decrypt files using PGP and zip/unzip task for SSIS 2008 and SSIS 2012.
 
 *   System Requirements:
+    *   Microsoft SQL Server 2014
     *   Microsoft SQL Server 2008
     *   Microsoft SQL Server 2012
     *   Microsoft Visual Studio 2012
+  
 
 *   SFTP component is entirely written in .NET and is based on the [http://sshnet.codeplex.com](http://sshnet.codeplex.com) SshNet library.
 *   PGP component is based on the [http://www.mentalis.org/](http://www.mentalis.org/) Bouncy Castle library. Also uses the PGPEncryptionKeys class found here [http://blogs.microsoft.co.il/blogs/kim/archive/2009/01/23/pgp-zip-encrypted-files-with-c.aspx](http://blogs.microsoft.co.il/blogs/kim/archive/2009/01/23/pgp-zip-encrypted-files-with-c.aspx)
